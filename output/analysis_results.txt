@@ -228,3 +228,38 @@ Location-based insights:
 ✨ park appears to be a positive environment (100.0% positive emotions)
 ✨ support_group appears to be a positive environment (100.0% positive emotions)
 
+
+Universal Emotions by Hour:
+------------------------------
+
+Peak Hours for Each Universal Emotion:
+Joy: 11:00 hours (4 messages)
+Sadness: 08:00 hours (1 messages)
+Fear: 07:00 hours (3 messages)
+Anger: 15:00 hours (2 messages)
+Disgust: No occurrences found
+
+Emotional Balance by Time of Day:
+
+Morning (6:00-11:59):
+  Joy: 52.6%
+  Sadness: 10.5%
+  Fear: 36.8%
+  Anger: 0.0%
+  Disgust: 0.0%
+
+Afternoon (12:00-17:59):
+  Joy: 52.6%
+  Sadness: 26.3%
+  Fear: 10.5%
+  Anger: 10.5%
+  Disgust: 0.0%
+
+Evening (18:00-23:59):
+  Joy: 75.0%
+  Sadness: 25.0%
+  Fear: 0.0%
+  Anger: 0.0%
+  Disgust: 0.0%
+
+
