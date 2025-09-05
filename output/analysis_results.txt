@@ -263,3 +263,71 @@ Evening (18:00-23:59):
   Disgust: 0.0%
 
 
+Gender-Based Mental Health Disparity Analysis
+========================================
+
+
+Healthcare Mention References:
+Total mentions: 0
+Emotional context of these mentions:
+
+Resource Access References:
+Total mentions: 4
+Emotional context of these mentions:
+- Joy: 75.0%
+- Fear: 25.0%
+
+Workplace Support References:
+Total mentions: 4
+Emotional context of these mentions:
+- Anger: 50.0%
+- Joy: 25.0%
+- Sadness: 25.0%
+
+Stigma References:
+Total mentions: 0
+Emotional context of these mentions:
+
+Support Availability by Location:
+- cafe: 100.0% messages mention support
+- home: 5.3% messages mention support
+- office: 7.7% messages mention support
+- support_group: 100.0% messages mention support
+- clinic: 0.0% messages mention support
+- gym: 0.0% messages mention support
+- commute: 0.0% messages mention support
+- outdoors: 0.0% messages mention support
+- park: 0.0% messages mention support
+
+
+
+Recommendations for Addressing Gender-Based Health Disparities
+============================================================
+
+1. Support System Enhancement:
+------------------------------
+- Establish more women-specific mental health support groups
+- Create peer support networks in underserved locations
+- Develop mentorship programs for women in high-stress environments
+
+2. Healthcare Interaction Improvements:
+------------------------------
+
+3. Geographic Access Improvements:
+------------------------------
+Priority areas for support expansion:
+- clinic: Increase resource accessibility
+- commute: Increase resource accessibility
+- gym: Increase resource accessibility
+- home: Increase resource accessibility
+- office: Increase resource accessibility
+- outdoors: Increase resource accessibility
+- park: Increase resource accessibility
+
+5. Workplace Mental Health:
+------------------------------
+- Advocate for flexible work arrangements
+- Establish mental health days policy
+- Create women's support networks in workplace
+
+
