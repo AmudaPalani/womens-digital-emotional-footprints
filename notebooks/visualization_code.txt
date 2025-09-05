@@ -1,0 +1,29 @@
+# Create pie chart and save it in the output folder
+import os
+
+# Create output directory if it doesn't exist
+os.makedirs('../output', exist_ok=True)
+
+# Create the visualization
+plt.figure(figsize=(10, 8))
+colors = ['#FFD700', '#4169E1', '#DC143C', '#32CD32', '#800080', '#808080']  # Colors for each emotion
+plt.pie(emotion_counts.values, labels=emotion_counts.index, autopct='%1.1f%%', 
+        colors=colors, startangle=90)
+
+plt.title('Distribution of Emotions in Women\'s Mental Health Tweets', pad=20)
+
+# Add a legend
+plt.legend(emotion_counts.index, title="Emotions", 
+          loc="center left", bbox_to_anchor=(1, 0, 0.5, 1))
+
+# Ensure the pie chart is circular
+plt.axis('equal')
+
+# Save the plot to the output folder with high resolution
+plt.savefig('../output/emotion_distribution.png', bbox_inches='tight', dpi=300)
+plt.show()
+
+# Save the analysis results as CSV
+analysis_results = df[['tweet', 'sentiment_score', 'emotion']]
+analysis_results.to_csv('../output/sentiment_analysis_results.csv', index=False)
+print("\nAnalysis results saved to: '../output/sentiment_analysis_results.csv'")
