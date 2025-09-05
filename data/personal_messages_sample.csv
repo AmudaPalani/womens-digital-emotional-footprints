@@ -1,28 +1,32 @@
 timestamp,message,recipient_type,location,app,mood_logged,activity,life_event
-2025-09-01 07:30,"Good morning! Feeling anxious about the big presentation today 😰",friend,home,WhatsApp,anxious,morning routine,work deadline
-2025-09-01 09:15,"Running late for the meeting. Traffic is terrible today 😤",work,commute,Slack,stressed,commuting,work stress
-2025-09-01 12:30,"Mom, can you pick up Sarah from school? Meeting running late 😔",family,office,SMS,overwhelmed,working,parenting
-2025-09-01 15:45,"Had to cancel my therapy session again. Too much work 😫",healthcare,office,SMS,frustrated,working,health management
-2025-09-01 19:20,"Finally home. Too tired to cook. Ordering takeout again 🥱",self,home,Notes,exhausted,resting,self-care
-2025-09-02 08:00,"Feel much better after that morning yoga session! 🧘‍♀️",friend,gym,WhatsApp,energized,exercising,wellness
-2025-09-02 11:30,"Thanks for listening yesterday. Really needed that chat ❤️",friend,office,WhatsApp,grateful,working,friendship
-2025-09-02 14:15,"Can we reschedule our coffee? Not in a great headspace today 😕",friend,office,SMS,down,working,mental health
-2025-09-02 17:45,"Missing dad today. It's been a year already 💔",family,home,WhatsApp,sad,reflecting,grief
-2025-09-03 07:45,"Couldn't sleep well. Anxiety about the project deadline 😳",self,home,Notes,anxious,morning routine,work stress
-2025-09-03 10:30,"Great feedback on my presentation! Finally feeling confident 🎉",work,office,Slack,happy,working,achievement
-2025-09-03 13:20,"Have to cancel girls night. Deadlines are killing me 😩",friend,office,WhatsApp,guilty,working,work-life balance
-2025-09-03 16:45,"Booked that vacation finally! Need this break so much 🏖️",family,office,WhatsApp,excited,planning,self-care
-2025-09-04 08:30,"Woke up with a headache. Stress is getting to me 🤕",healthcare,home,SMS,unwell,morning routine,health concern
-2025-09-04 11:15,"Miss you too sweetie. Mommy will be home early today ❤️",family,office,WhatsApp,loving,working,parenting
-2025-09-04 14:30,"Started meditation during lunch break. Really helps! 🧘‍♀️",friend,office,WhatsApp,peaceful,lunch break,wellness
-2025-09-04 18:20,"Made it to yoga class! Proud of maintaining this routine 💪",self,gym,Notes,accomplished,exercising,self-care
-2025-09-05 09:00,"Feeling overwhelmed with all the house chores piling up 😫",family,home,WhatsApp,overwhelmed,housework,home stress
-2025-09-05 12:45,"Got that promotion! Can't believe it! 🎉",friend,office,WhatsApp,ecstatic,working,career milestone
-2025-09-05 15:30,"Need to find better work-life balance. Missing family time 💔",self,office,Notes,conflicted,working,work-life balance
-2025-09-06 08:15,"Weekend plans cancelled. Kids got sick 😷",friend,home,WhatsApp,worried,caregiving,parenting
-2025-09-06 11:30,"Taking kids to the park. Need some fresh air! 🌳",family,outdoors,SMS,hopeful,family time,family bonding
-2025-09-06 14:45,"Actually enjoyed cooking today. Self-care Sunday works! 🥗",self,home,Notes,content,cooking,self-care
-2025-09-07 09:30,"Sunday morning yoga done! Starting the day right ✨",self,home,Notes,peaceful,exercising,wellness
-2025-09-07 13:20,"Family lunch prep done. Love these weekend traditions ❤️",family,home,WhatsApp,happy,cooking,family bonding
-2025-09-07 16:45,"Dreading tomorrow's meetings. Weekend went too fast 😔",self,home,Notes,anxious,relaxing,work anxiety
-2025-09-07 20:15,"Set up my planner for the week. I've got this! 💪",self,home,Notes,determined,planning,self-organization
+2025-08-01 08:00,"Morning meditation done! Starting the day right ✨",self,home,Notes,peaceful,morning routine,wellness
+2025-08-02 12:15,"Need to reschedule therapy. Work deadline looming �",healthcare,office,SMS,stressed,working,health management
+2025-08-03 17:30,"Sunday meal prep complete! Taking care of future me 🥗",self,home,Notes,accomplished,cooking,self-care
+2025-08-04 09:45,"Anxiety creeping in about the big meeting tomorrow �",friend,office,WhatsApp,anxious,working,work stress
+2025-08-05 14:00,"Started journaling today. Feels good to write it out 📝",self,home,Notes,hopeful,self-care,mental health
+2025-08-06 11:30,"Great therapy session! Making progress 💪",healthcare,clinic,SMS,optimistic,health care,mental health
+2025-08-07 16:15,"Work pressure is intense. Need to set boundaries 😫",friend,office,WhatsApp,overwhelmed,working,work stress
+2025-08-08 10:00,"Morning yoga done! Feeling centered 🧘‍♀️",self,home,Notes,peaceful,exercising,wellness
+2025-08-09 13:45,"Weekend self-care plans ready! Need this reset ✨",friend,home,WhatsApp,excited,planning,self-care
+2025-08-10 18:30,"Family dinner prep is therapeutic today 🥘",family,home,SMS,content,cooking,family bonding
+2025-08-11 07:45,"Monday motivation: Take care of your mind first 🌟",self,home,Notes,determined,morning routine,self-care
+2025-08-12 15:30,"Deadlines piling up. Deep breaths... 😮‍💨",work,office,Slack,stressed,working,work stress
+2025-08-13 09:15,"Found a great mental health podcast! Game changer 🎧",friend,commute,WhatsApp,grateful,commuting,wellness
+2025-08-14 16:45,"Tough day at work. Need to decompress 😔",self,office,Notes,sad,working,work stress
+2025-08-15 11:00,"Therapy helping me set better boundaries 🛡️",healthcare,clinic,SMS,hopeful,health care,mental health
+2025-08-16 14:30,"Weekend anxiety creeping in. Using my tools 🧘‍♀️",self,home,Notes,anxious,relaxing,mental health
+2025-08-17 10:45,"Sunday gratitude journal entry done ✍️",self,home,Notes,peaceful,writing,self-care
+2025-08-18 13:15,"Work-life balance struggle is real today 😫",friend,office,WhatsApp,overwhelmed,working,work-life balance
+2025-08-19 08:30,"Morning meditation helping with anxiety �",self,home,Notes,hopeful,morning routine,wellness
+2025-08-20 16:00,"Imposter syndrome hitting hard today �",friend,office,WhatsApp,insecure,working,work stress
+2025-08-21 12:45,"New mental health book recommendations! 📚",friend,home,WhatsApp,excited,reading,self-care
+2025-08-22 09:00,"Taking a mental health day. No guilt! 💆‍♀️",work,home,Slack,peaceful,resting,self-care
+2025-08-23 14:15,"Support group was amazing today ❤️",friend,support_group,WhatsApp,grateful,support,mental health
+2025-08-24 11:30,"Need a weekend reset. Too much happening �",family,home,SMS,tired,resting,self-care
+2025-08-25 17:45,"Making progress with anxiety management 💪",healthcare,clinic,SMS,hopeful,health care,mental health
+2025-08-26 08:15,"Morning affirmations setting the tone ✨",self,home,Notes,positive,morning routine,self-care
+2025-08-27 13:45,"Work stress is real. Need to step back 😤",friend,office,WhatsApp,frustrated,working,work stress
+2025-08-28 10:30,"Finding joy in small wins today 🌟",self,home,Notes,happy,working,wellness
+2025-08-29 15:00,"Breakthrough in therapy today! 💫",healthcare,clinic,SMS,accomplished,health care,mental health
+2025-08-30 12:15,"Weekend self-care mode activated 🧘‍♀️",friend,home,WhatsApp,excited,planning,self-care
+2025-08-31 18:00,"Monthly reflection: proud of my progress 🌱",self,home,Notes,peaceful,reflecting,mental health

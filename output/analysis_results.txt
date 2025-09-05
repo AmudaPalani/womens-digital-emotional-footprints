@@ -1,81 +1,72 @@
 Dataset Overview
 -----------------
-Time period: 2025-09-01 07:30:00 to 2025-09-07 20:15:00
-Total messages: 42
+Time period: 2025-08-01 08:00:00 to 2025-08-31 18:15:00
+Total messages: 62
 
 Messages by source:
 source
-Personal Message    27
-Social Media        15
+Personal Message    31
+Social Media        31
 
 
 Social Media Platforms Used:
 platform
-Instagram    7
-Twitter      4
-Facebook     3
-LinkedIn     1
+Twitter      16
+Instagram    15
 
 Locations:
 location
-home             19
-office           13
-gym               3
-commute           2
-outdoors          1
-clinic            1
+Home             18
+home             17
+Office           13
+office            8
+clinic            4
 support_group     1
-park              1
-cafe              1
+commute           1
 
 Unique moods/emotions:
 mood_logged
-anxious         5
-peaceful        4
+peaceful        9
+hopeful         7
+excited         6
+grateful        5
+stressed        4
+anxious         4
 overwhelmed     3
-hopeful         3
-grateful        3
-stressed        2
-happy           2
+positive        3
+sad             3
+accomplished    3
 determined      2
 content         2
-accomplished    2
-sad             2
-energized       1
-exhausted       1
-frustrated      1
-down            1
-loving          1
-unwell          1
-excited         1
-guilty          1
-worried         1
-conflicted      1
-ecstatic        1
-confident       1
+optimistic      2
+insecure        2
+tired           2
+frustrated      2
+happy           2
+vulnerable      1
 
 Distribution of Universal Emotions:
 ------------------------------
 
 Personal Message:
-Anger: 7.4%
-Fear: 22.2%
-Joy: 48.1%
-Sadness: 22.2%
+Anger: 3.2%
+Fear: 16.1%
+Joy: 71.0%
+Sadness: 9.7%
 
 Social Media:
-Anger: 0.0%
-Fear: 20.0%
-Joy: 66.7%
-Sadness: 13.3%
+Anger: 3.2%
+Fear: 16.1%
+Joy: 71.0%
+Sadness: 9.7%
 
 
 Peak Times for Universal Emotions:
 ------------------------------
-Joy: 11:00 hours (4 messages)
-Sadness: 8:00 hours (1 messages)
-Fear: 7:00 hours (3 messages)
-Anger: 15:00 hours (2 messages)
+Joy: 10:00 hours (6 messages)
+Sadness: 16:00 hours (3 messages)
+Fear: 14:00 hours (3 messages)
+Anger: 13:00 hours (1 messages)
 Disgust: No occurrences found
 
 
@@ -83,35 +74,52 @@ Disgust: No occurrences found
 Emotional Expression by Platform:
 ------------------------------
 
-Instagram:
-Total posts: 7
-  Joy: 57.1%
-  Sadness: 28.6%
-  Fear: 14.3%
-  Anger: 0.0%
-  Disgust: 0.0%
-
-
 Twitter:
-Total posts: 4
-  Joy: 75.0%
+Total posts: 16
+  Joy: 87.5%
   Sadness: 0.0%
-  Fear: 25.0%
+  Fear: 6.2%
+  Anger: 6.2%
+  Disgust: 0.0%
+
+
+Instagram:
+Total posts: 15
+  Joy: 53.3%
+  Sadness: 20.0%
+  Fear: 26.7%
   Anger: 0.0%
   Disgust: 0.0%
 
 
-Facebook:
-Total posts: 3
-  Joy: 66.7%
+
+Universal Emotions by Hour:
+------------------------------
+
+Peak Hours for Each Universal Emotion:
+Joy: 10:00 hours (6 messages)
+Sadness: 16:00 hours (3 messages)
+Fear: 14:00 hours (3 messages)
+Anger: 13:00 hours (1 messages)
+Disgust: No occurrences found
+
+Emotional Balance by Time of Day:
+
+Morning (6:00-11:59):
+  Joy: 95.7%
   Sadness: 0.0%
-  Fear: 33.3%
+  Fear: 4.3%
   Anger: 0.0%
   Disgust: 0.0%
 
+Afternoon (12:00-17:59):
+  Joy: 48.5%
+  Sadness: 18.2%
+  Fear: 27.3%
+  Anger: 6.1%
+  Disgust: 0.0%
 
-LinkedIn:
-Total posts: 1
+Evening (18:00-23:59):
   Joy: 100.0%
   Sadness: 0.0%
   Fear: 0.0%
@@ -120,72 +128,62 @@ Total posts: 1
 
 
 
-Peak Times for Universal Emotions:
-------------------------------
-Joy: 11:00 hours (4 messages)
-Sadness: 8:00 hours (1 messages)
-Fear: 7:00 hours (3 messages)
-Anger: 15:00 hours (2 messages)
-Disgust: No occurrences found
-
-
-
 Weekly Emotional Analysis
 =========================
 
 Dominant Emotion by Day:
 ------------------------------
-Monday: Sadness (42.9% of messages)
-Tuesday: Joy (50.0% of messages)
+Monday: Joy (62.5% of messages)
+Tuesday: Joy (62.5% of messages)
 Wednesday: Joy (50.0% of messages)
-Thursday: Joy (66.7% of messages)
-Friday: Joy (40.0% of messages)
-Saturday: Joy (80.0% of messages)
-Sunday: Joy (85.7% of messages)
+Thursday: Joy (62.5% of messages)
+Friday: Joy (90.0% of messages)
+Saturday: Joy (60.0% of messages)
+Sunday: Joy (100.0% of messages)
 
 Emotional Balance by Day:
 ------------------------------
 
 Monday:
-  Anger: 14.3%
-  Fear: 28.6%
-  Joy: 14.3%
-  Sadness: 42.9%
+  Anger: 0.0%
+  Fear: 12.5%
+  Joy: 62.5%
+  Sadness: 25.0%
 
 Tuesday:
   Anger: 0.0%
-  Fear: 0.0%
-  Joy: 50.0%
-  Sadness: 50.0%
+  Fear: 37.5%
+  Joy: 62.5%
+  Sadness: 0.0%
 
 Wednesday:
-  Anger: 0.0%
-  Fear: 33.3%
+  Anger: 25.0%
+  Fear: 25.0%
   Joy: 50.0%
-  Sadness: 16.7%
+  Sadness: 0.0%
 
 Thursday:
   Anger: 0.0%
-  Fear: 33.3%
-  Joy: 66.7%
-  Sadness: 0.0%
+  Fear: 0.0%
+  Joy: 62.5%
+  Sadness: 37.5%
 
 Friday:
-  Anger: 20.0%
-  Fear: 20.0%
-  Joy: 40.0%
-  Sadness: 20.0%
+  Anger: 0.0%
+  Fear: 10.0%
+  Joy: 90.0%
+  Sadness: 0.0%
 
 Saturday:
   Anger: 0.0%
-  Fear: 20.0%
-  Joy: 80.0%
-  Sadness: 0.0%
+  Fear: 30.0%
+  Joy: 60.0%
+  Sadness: 10.0%
 
 Sunday:
   Anger: 0.0%
-  Fear: 14.3%
-  Joy: 85.7%
+  Fear: 0.0%
+  Joy: 100.0%
   Sadness: 0.0%
 
 Personal Wellness Analysis
@@ -193,14 +191,12 @@ Personal Wellness Analysis
 
 Emotional Patterns by Location:
 ------------------------------
-cafe: Most common emotion is Joy
+Home: Most common emotion is Joy
+Office: Most common emotion is Joy
 clinic: Most common emotion is Joy
-commute: Most common emotion is Fear
-gym: Most common emotion is Joy
-home: Most common emotion is Fear
-office: Most common emotion is Joy
-outdoors: Most common emotion is Joy
-park: Most common emotion is Joy
+commute: Most common emotion is Joy
+home: Most common emotion is Joy
+office: Most common emotion is Fear
 support_group: Most common emotion is Joy
 
 
@@ -209,125 +205,20 @@ Personalized Insights:
 ------------------------------
 
 Best times for wellbeing:
-- 11:00 hours
 - 10:00 hours
-- 16:00 hours
-
-Times to be mindful:
-- 07:00 hours
-- 08:00 hours
+- 11:00 hours
 - 09:00 hours
 
+Times to be mindful:
+- 16:00 hours
+- 14:00 hours
+- 13:00 hours
+
 Location-based insights:
-✨ cafe appears to be a positive environment (100.0% positive emotions)
+✨ Home appears to be a positive environment (88.9% positive emotions)
 ✨ clinic appears to be a positive environment (100.0% positive emotions)
-✨ commute appears to be a positive environment (50.0% positive emotions)
-✨ gym appears to be a positive environment (100.0% positive emotions)
-✨ office appears to be a positive environment (53.8% positive emotions)
-✨ outdoors appears to be a positive environment (100.0% positive emotions)
-✨ park appears to be a positive environment (100.0% positive emotions)
+✨ commute appears to be a positive environment (100.0% positive emotions)
+✨ home appears to be a positive environment (94.1% positive emotions)
+⚠️ Consider limiting time at office (100.0% negative emotions)
 ✨ support_group appears to be a positive environment (100.0% positive emotions)
-
-
-Universal Emotions by Hour:
-------------------------------
-
-Peak Hours for Each Universal Emotion:
-Joy: 11:00 hours (4 messages)
-Sadness: 08:00 hours (1 messages)
-Fear: 07:00 hours (3 messages)
-Anger: 15:00 hours (2 messages)
-Disgust: No occurrences found
-
-Emotional Balance by Time of Day:
-
-Morning (6:00-11:59):
-  Joy: 52.6%
-  Sadness: 10.5%
-  Fear: 36.8%
-  Anger: 0.0%
-  Disgust: 0.0%
-
-Afternoon (12:00-17:59):
-  Joy: 52.6%
-  Sadness: 26.3%
-  Fear: 10.5%
-  Anger: 10.5%
-  Disgust: 0.0%
-
-Evening (18:00-23:59):
-  Joy: 75.0%
-  Sadness: 25.0%
-  Fear: 0.0%
-  Anger: 0.0%
-  Disgust: 0.0%
-
-
-Gender-Based Mental Health Disparity Analysis
-========================================
-
-
-Healthcare Mention References:
-Total mentions: 0
-Emotional context of these mentions:
-
-Resource Access References:
-Total mentions: 4
-Emotional context of these mentions:
-- Joy: 75.0%
-- Fear: 25.0%
-
-Workplace Support References:
-Total mentions: 4
-Emotional context of these mentions:
-- Anger: 50.0%
-- Joy: 25.0%
-- Sadness: 25.0%
-
-Stigma References:
-Total mentions: 0
-Emotional context of these mentions:
-
-Support Availability by Location:
-- cafe: 100.0% messages mention support
-- home: 5.3% messages mention support
-- office: 7.7% messages mention support
-- support_group: 100.0% messages mention support
-- clinic: 0.0% messages mention support
-- gym: 0.0% messages mention support
-- commute: 0.0% messages mention support
-- outdoors: 0.0% messages mention support
-- park: 0.0% messages mention support
-
-
-
-Recommendations for Addressing Gender-Based Health Disparities
-============================================================
-
-1. Support System Enhancement:
-------------------------------
-- Establish more women-specific mental health support groups
-- Create peer support networks in underserved locations
-- Develop mentorship programs for women in high-stress environments
-
-2. Healthcare Interaction Improvements:
-------------------------------
-
-3. Geographic Access Improvements:
-------------------------------
-Priority areas for support expansion:
-- clinic: Increase resource accessibility
-- commute: Increase resource accessibility
-- gym: Increase resource accessibility
-- home: Increase resource accessibility
-- office: Increase resource accessibility
-- outdoors: Increase resource accessibility
-- park: Increase resource accessibility
-
-5. Workplace Mental Health:
-------------------------------
-- Advocate for flexible work arrangements
-- Establish mental health days policy
-- Create women's support networks in workplace
-
 
